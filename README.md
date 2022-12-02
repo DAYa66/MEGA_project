@@ -1,6 +1,14 @@
 # MEGA_project
 Курсовой проект от ведущего мобильного оператора в России
 
+Стек:
+
+ML: dask, sklearn, pandas, numpy, scipy, catboost, xgboost, lightgbm, hyperopt, tensorflow,
+
+tensorflow-addons, keras 
+
+API: Luigi
+
    Здравствуйте!
    
    Знакомство с проектом прошу начинать с файла Presentation.pdf
